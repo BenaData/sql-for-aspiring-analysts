@@ -1,2 +1,2 @@
-# MySQL-scripts
-These are MySQL scripts used in different projects
+# sql-for-aspiring-analysts
+This is a step by step MySQL blueprint for aspiring data analysts analysts
