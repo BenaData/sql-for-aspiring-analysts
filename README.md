@@ -1,6 +1,6 @@
 # SQL for Data Analysts — A Practical MySQL Roadmap
 
-A structured, hands-on path from SQL fundamentals to interview-ready proficiency — built and maintained by [Benard Musyoka Mwinzi](https://benadata.github.io) using MySQL 8.
+A structured, hands-on path from SQL fundamentals to interview-ready proficiency. Built and maintained by [Benard Musyoka Mwinzi](https://benadata.github.io) using MySQL 8.
 
 > Every section pairs a concept with runnable `.sql` scripts against a real dataset, so you're never just reading theory — you're querying.
 
